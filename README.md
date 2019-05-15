@@ -16,3 +16,8 @@ The directions given to you will contain the following information:
 Whether to turn left (L) or whether to turn right (R) by a complete 90 degrees.
 This will then be followed by a series of characters that indicate whether you should move forwards (+) or backwards (-).
 
+Part 2 (Optional): 
+The file problem-complex-input.txt contains a more complex input, and can be optionally completed. Instructions
+Including the instructions stated in part 1, there are now extra directions specified.
+There are directions to travel north (N), east (E), south (S), and west (W).
+These instructions dictate that the drone does not turn at all, but instead just travels in the given cardinal direction.
