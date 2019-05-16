@@ -29,7 +29,7 @@ const leftTurn = () => {
       break;
   }
 
-  return drone.facingDirection
+  // return drone.facingDirection
 };
 
 const rightTurn = () => {
@@ -47,7 +47,7 @@ const rightTurn = () => {
       drone.facingDirection = 'E';
       break;
   }
-  return drone.facingDirection
+  // return drone.facingDirection
 
 };
 
@@ -57,7 +57,7 @@ const orientationFinder = (m) => {
   } else if (instructions[m].charAt(0) == 'R') {
     rightTurn();
   };
-  return drone.facingDirection;
+  // return drone.facingDirection;
 };
 
 //establishing move direction

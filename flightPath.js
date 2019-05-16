@@ -1,7 +1,7 @@
 let flightPath = "L---+++- L-++---++ L+ R--++------ L- L- L--- L- R+ R-+ L+ R++- L- R-+ R- L+ L- L- L-- L++ L---++---+ L--++ L- L- R- R+ L-++-- R-+-- L+ L+++--+- R+ L+ R+ L- R+- R- L- R-- L- L+++--+++ R+ R-++- R-- L-++ L- R--+ R+---+ R+ R- L+ R- R--- R-- R+-+--+-++ L- R--++ R- R++---- L+ R- L- L+--+-+- L--+- L- L+ L- R+ L- R- L-+ L- L- L- R- R- R+- R--+----+-+ L+++-+-+--+ L-+-+ R+ L+--- L++- L-----+++++ L- L+ L+ L+ L- L- R- R- L----+--- R-+ L- L++- L+-+--++ R+ L- R+ R+--+- R+-+++ R++-- L- R+ R- R--+---- R+ R- L+ R++------- R-+ L+ L+ L-++ R--+ L+ L- L- L+ R+ R+++- R- L- R- R- R- R- R+- R- L++ R- R+ L- R-- R- L+ R- L+ R- R- L- L-+- L- R- R+ R- R+ L- R-- L--++ L- R+- R- R- R----++ R- L- R++++ L+- R+ R+- L- R-++ L- R- R- L-++- R- R+ R+-- L+++++ R- R- R+ L+-+-- R+ L+-+--+- R+ R+- L+++--- R+ R- L- R+ L+-++-- L--++-+-- R- L- R+ R-+ L+-- L+ R--+ R- R- L- R++- R+ L- L- R+ R+ L+-+ R+ L+- L- R--+-++ L+ R+ L+ R--++-+-- R-++-+ R+- L-+ R- L+++- L+ R--++--- R+- L- L- R+----+-+ L- R- L+ L- L- R- L+ R- L++ L+ L+-+++ L+ R+ L- R-++ L+ L-+- R++++ R+ L+ R+ L- L+ R+--+-+ R-- R- L- R- R- L- R+ L+- L+++ R+-+ R- L-- L- R+ R-++--+ L-- R-+ R++-- R+ R-+ R-++ L- L+-+ L+ L+ R+++-- L+ R---++-+ L++- L++-+-- R+- R--+ L++ R- R+ R+-+ L+ L- R-- R+ L+- L- L- L+ L++-+ L-++-+ R+- R-++ L-++- R- R--- L+ L+- R++-- R+ R+ L+++- R- L- L-+++--- R- R- L- R+-- R- R+--++ L--+ L+ R- R- R- L+- R+ L---++-- L+ R-+---+--- R++ R+ L+ R+ L++++ R-- R+ R+---- R- L+-+-+- L-- R-+- R- R- R-- L-- L+- R+ R- R+ L+ L-- R- L+-- L++++++ R- R+ R+ L- R+ R+ R+---+ R+ L- L+ R- R+- R++++ L+--+ R-+-- L+ R- R- L+ R-+-+ R+++ L+ R-+ R-+-+-- L- L++++ L+ L+ R+ R--+-+ L- R+ R- L+ L-++++ L+ R- L+ R+++ R++ R++ L+- R+ R- R+--+-- L-+ L-+- R- R-+ L- R+--++++ L+ R+- R+ L- R++ L- R+ L++--+- L--++-- L+- L-+- R+ R++- L+ L---- L+ R++- L-- L-+-++ R- L++++ L-+ L- L-+ R+ L++-+-+-+-+- L- L+ L+ R- R+++- R-- R- L+ R-+++++-- R+ L-- L+ R-+-+ L-+ R--- L+ L-++-+ R+ L- R- R- R- R+ R+ R+ R-- R-+--+ L- L+-+ L-+ L+++++ R+--++- R-++ L-++- R-+ R+ L- L-+- R- L-+++ R- R-++- L+-+ R- L+ L--++- L- R-+++--- L--- L++ R++--+--+ R+-- L- L- R+ R+ L+ R--+ L- R+-+ L+ R++--+-- L+ R-++ R- L+ R-+- R- R+- L+ R+ L+- L+ L+ L---+ L- L+ L+ L+ L- L+ L- R+ L+ L- R- L-- L-+ R+++++ R+ L- R- R-- L- L- L+-++ R-- L- L+ R++- L+- R- R- L+ R+ L++ R- R+ L+ L- R-- R+ R- R- R+--++-++ L- R-- L+ L+ R+ L+ R++ L- R-+ L+ L- L+-++-- L+ L-+ R+ R++- L-- R++ R- L+ L+- L- R+ R- R-+ L+ L+ R++ R- R- R-++- L++--++++++ L- R+ R- L+ L+ L+ R- L--+++ R+ R-+----++ L--- L-+ R+-+ R+ L- L-++ L+ R+ L-- R+ L+++--+-+- R++--+- R- L++ L- R+ L+-- R+ R++++ R+ L+ L++ R- L+--++-++ L+ L+--+++- L-- L-+- R++- L- L+ L+ R- R++-+- L+ L--- R- L- L+ R---- R+ L-- R- R- R+ L+ L-- R+ R+ R+ L- R+ L- R- L-+ L+ R-- R+ R--++ L- L--++-- L+--- R+ L+ R-+ R++-- R+ L- R- R- L+ L--++- L- R+- R-+- L+ R+-+-+++ L+ L- L+ R+++ R- R++ R-+++ R+++-+ L- R+ L+-+ R+ L+ L+-+ R+ L+ L- L- L+++---- L+ L+++ R+--+--+++---- R- L- R- L-+ R+ R+ R+-- R- L+---+- R-+-+- L- L-+- R- L+- L--+- R- L- L+ L+ R+ L--++- R- R- L+++++ R- L++ L+ R- R-+ R+ L+ R++ L+- L- R++----+-++--+- R+-- R---+ R+- L+ L++- R- R- L+ R+ R- L-+ L-+- L+- L-++ L- R-++ R-+++++- L----- L+ R- R-++ R-+-- L---+ L+ R++- R+ R+- R- R++- L+ L- L++- L- R+ R++--+----+-- L--++ L+ R-- L- R++ R-- R-++ R++- R+ R++ R+++++--- R+ L-- L-+++ R+ L+++- R- L++ L+ L+ L-+ R--++- L+ L- L+- L--+++++ L-++ R+ L--+ R- R- R--+ R-+++ L- R- R+ L-+ L+-----+-+--- L++ L+- L+ L+ L-+ L- R+ L-++ L+-++++ R+ L- L++-- L- L- R-+ R+ L- R- L---- R-++-+ L- R----++---+- L- L++ L- L- L+- L+ R--++-- R-+-- L-+-++ R-- L- L+++-+++--+- R+- L-----+----+- L+- R-+- R+ R+++- L-++-- R+- R+ L-- R- L--+++-+ R+ L+ L- L-+-+-+- L-+++-++ L--+-- R- R--+ R--+ R--+ R+ L- R++-++++++-+- L+++--- L---+ L- L-- L+ R- R+ L- R+++-+-++--+- R- R+ L+ R+ R+ R+ L+ L-+ R-+ R--- R+-- L+ L- L- R- R+ R+ R++ R+ R- L+ L- R++ R+ L+ L++ R+++- L--- L+ L+- L-- R+ L- L--+ L-+-+ R-+--+-+ L++--+ R++++ R+++-- R- R- R- L+ L- R+ R- L+ R- L- R+ R++ R++-+ R- R- L-- L- R++ L- L+++-+- L-+ L--+ R+ L+ L- R+ R+-- R-+-+--+--+ L+ L+ R- R+ R----+ R-+ L+ L- R-++++ R---+-+ L-++-+ L+ R+ L- L---+ R--+ L+ R- R+ R++ R+--++-++ L+ L+ R+ R- R- R-++++ L- L+-+---+---- R+ R- L+-+ R+ R+ L- R-- R+-+---+- R+ R+ R- R---+-++++-- R++ L-+--++ L- L- L- R+ L+ L+-+ R- L++--+++-+ L+ R-+ R+ R- R++ R- L---- R+ L+ L- L- R+-+ R---++-+-+ L-+- R+---+-+ L-+- R--+- L+- R++++- L- R++ L+-+ L+-- L- R-+--+ L- L-+ R+ R+ L-++ L- L+ L- R-+-- L-+ R- R+ L- L--+ R- L-- R-++- R-++ L++ R++--- R- L- R--- R+- R-";
 
-//Breaking down flight path into sequence of moves
-let moves = flightPath.split(" ");
+//Breaking down flight path into sequence of instructions
+let instructions = flightPath.split(" ");
 
 
 //placing drone on the map
@@ -32,7 +32,7 @@ const leftTurn = () => {
       drone.thrust = -1;
       break;
   }
-  return drone.thrust
+  // return drone.thrust
 };
 
 const rightTurn = () => {
@@ -54,31 +54,31 @@ const rightTurn = () => {
       drone.thrust = 1;
       break;
   }
-  return drone.thrust
+  // return drone.thrust
 
 }
 
 const stepsValue = (m) => {
   // number of steps in a move
   let v = 0
-  for (let i = 1; i < moves[m].length; i++) {
-    if (moves[m].charAt(i) == '+') {
+  for (let i = 1; i < instructions[m].length; i++) {
+    if (instructions[m].charAt(i) == '+') {
       v += 1;
-    } else if (moves[m].charAt(i) == '-') {
+    } else if (instructions[m].charAt(i) == '-') {
       v -= 1;
     }
   };
   //move direction
-  if (moves[m].charAt(0) == 'L') {
+  if (instructions[m].charAt(0) == 'L') {
     leftTurn();
-  } else if (moves[m].charAt(0) == 'R') {
+  } else if (instructions[m].charAt(0) == 'R') {
     rightTurn();
   };
   return v * drone.thrust
 };
 
 const moveDrone = () => {
-  for (let i = 0; i < moves.length; i++) {
+  for (let i = 0; i < instructions.length; i++) {
     let step = stepsValue(i);
     if (drone.compass == 'W' || drone.compass == 'E') {
       drone.x += step
